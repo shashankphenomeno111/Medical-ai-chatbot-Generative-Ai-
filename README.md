@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/73c9202d-5b45-4cb5-8d68-09df71244b15" />
-
+  <img src="assets/banner.png" alt="Medical AI Encyclopedia Banner" width="100%" />
 </p>
 
 <h1 align="center">🏥 Medical AI Encyclopedia</h1>
@@ -280,4 +279,5 @@ This application provides general health information only. It is **NOT** a subst
 <p align="center">
   ⭐ Star this repo if you find it helpful!
 </p>
+
 
