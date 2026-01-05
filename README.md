@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="MediBot V8 Banner" width="100%">
+  <img src="banner.png" alt="MediBot V8 Banner" width="100%">
 </p>
 
 <h1 align="center">🏥 Medical AI Encyclopedia</h1>
@@ -279,3 +279,4 @@ This application provides general health information only. It is **NOT** a subst
 <p align="center">
   ⭐ Star this repo if you find it helpful!
 </p>
+
