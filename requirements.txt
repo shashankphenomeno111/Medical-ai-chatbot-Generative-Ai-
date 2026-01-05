@@ -1,0 +1,16 @@
+# Project dependencies
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+transformers
+sentence-transformers
+faiss-cpu
+pypdf
+torch
+accelerate
+huggingface-hub
+wikipedia
+ddgs
+fpdf2
+Pillow
